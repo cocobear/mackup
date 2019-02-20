@@ -2,10 +2,25 @@
 
 ## WIP
 
+- Add support for rofi (via @pat-s)
+- Add support for deepin-dde-file-manager (via @sUyMur)
+- Add support for Deepin-dde-dock (via @sUyMur)
+- Add support for deepin-terminal (via @sUyMur)
+- Add support for grsync (via @sUyMur)
+- Add support for ulauncher (via @sUyMur)
+- Add support for Tilix (via @pat-s)
+- Improve support for TextMate (via @egze)
 - Add support for Storyist 3 writing software (via @mutantant)
 - Add support for WordGrinder (via @mutantant)
 - Fix support for Adobe Illustrator CC2019 (v23)
 - remove `bundle` directory from vim config (via @cocobear)
+- Remove iTunes Scripts (via @dnicolson)
+- Add support for Sublime Merge (via @krupenja)
+- Add support for Marta (via @krupenja)
+- Add support for Goldendict (via @krupenja)
+- Add support for IINA (via @krupenja)
+- Improve support for fish (via @whtsky)
+- Improve support for weget (via @paxperscientiam)
 
 ## Mackup 0.8.22
 
